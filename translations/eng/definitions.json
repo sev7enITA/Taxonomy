@@ -100,6 +100,13 @@
         },
         {
             "language": "eng",
+            "term": "Autonomy",
+            "definition": "Autonomy in the context of AI and decision-making refers to the ability of an artificial intelligence system to make decisions or take actions without direct human intervention or guidance. However, the level of autonomy can vary, and in many cases, there may be a balance between autonomous decision-making and human oversight to ensure the ethical, safe, and responsible use of AI.",
+            "metaphor": "",
+            "updated": "2024-02-27"
+        },
+        {
+            "language": "eng",
             "term": "Open Dataset",
             "definition": "Open data is data that can be freely accessed, used, shared and built-on by anyone, anywhere, for any purpose. This is the summary of the [full Open Definition](https://opendefinition.org/od/2.1/en/).",
             "metaphor": "",
