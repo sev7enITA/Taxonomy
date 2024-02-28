@@ -107,6 +107,13 @@
         },
         {
             "language": "eng",
+            "term": "Oversight",
+            "definition": "Oversight in the context of AI and decision-making refers to the act of monitoring, supervising, and managing artificial intelligence systems to ensure they operate within established guidelines, ethical standards, and legal frameworks. It often includes mechanisms for human intervention when necessary, especially in critical or complex situations where the AI system may struggle or where human judgment is deemed essential. Effective oversight may involve continuous monitoring, regular audits, and the implementation of feedback loops that allow human operators to review and adjust the behavior of AI systems.",
+            "metaphor": "",
+            "updated": "2024-02-28"
+        },
+        {
+            "language": "eng",
             "term": "Open Dataset",
             "definition": "Open data is data that can be freely accessed, used, shared and built-on by anyone, anywhere, for any purpose. This is the summary of the [full Open Definition](https://opendefinition.org/od/2.1/en/).",
             "metaphor": "",
