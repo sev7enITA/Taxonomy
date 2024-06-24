@@ -114,6 +114,20 @@
         },
         {
             "language": "eng",
+            "term": "Operator",
+            "definition": "An Operator is an individual (natural person) designated to start, control the operation, and stop an autonomous system, a robot or a robotic process. Operators play a key role in the Oversight, corrective feedback and Data Labeling processes.",
+            "metaphor": "",
+            "updated": "2024-06-24"
+        },
+        {
+            "language": "eng",
+            "term": "Deployer",
+            "definition": "A Deployer is an entity that intentionally brings an AI or robotic system into operation, overseeing its use and in most cases responsible for its actions. Deployer can be an individual, company, government agency, or non-profit organization. However, if someone uses a robotic system for personal, non-business purposes, they are not considered Deployers. Additionally, the Deployer may not be the same as a person or team developing and engineering such systems. Deployers are responsible for setting up proper Oversight processes and for implementing appropriate safety measures.",
+            "metaphor": "",
+            "updated": "2024-06-24"
+        },
+        {
+            "language": "eng",
             "term": "Open Dataset",
             "definition": "Open data is data that can be freely accessed, used, shared and built-on by anyone, anywhere, for any purpose. This is the summary of the [full Open Definition](https://opendefinition.org/od/2.1/en/).",
             "metaphor": "",
