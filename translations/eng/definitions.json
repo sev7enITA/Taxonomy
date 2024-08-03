@@ -25,6 +25,13 @@
         },
         {
             "language": "eng",
+            "term": "Transparency Manifest",
+            "definition": "A JSON file, typically named OETP.json or transparency.json, storing the Disclosure using the defined OETP Disclosure Schema.",
+            "metaphor": "",
+            "updated": "2023-09-30"
+        },
+        {
+            "language": "eng",
             "term": "Disclosure Validation",
             "definition": "A sequence of automated software-based checks to control validity and security elements in the Disclosure. Disclosure Validation is important to allow the check whether a presented Disclosure was actually issued and issued by the valid Disclosure Identity Provider.",
             "metaphor": "",
